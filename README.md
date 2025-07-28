@@ -1,4 +1,4 @@
-# It is the shell script for access point configuration for Raspberry Pi
+# ap_configuration.sh is the shell script for access point configuration for Raspberry Pi
 
 There are default parameters in file:
 
